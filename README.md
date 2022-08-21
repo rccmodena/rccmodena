@@ -12,3 +12,5 @@ To get the work done, I use *Python*, *SQL*, *Git/Github/Bitbucket*, *JMP*, *Wek
 **Feel free to contact me.**
 
 ![rccmodena](https://github-readme-stats.vercel.app/api?username=rccmodena&show_icons=true&theme=dark)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rccmodena&layout=compact&theme=dark)
