@@ -6,7 +6,7 @@ To get the work done, I use *Python*, *SQL*, *Git/Github/Bitbucket*, *JMP*, *Wek
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on analyses to improve industrial performance.
-- 🌱 I’m currently learning [MBA Machine Learning in Production (UFSCar)]([https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821](https://iti.ufscar.mba/mlp))
+- 🌱 I’m currently learning [MBA Machine Learning in Production (UFSCar)]([https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821](https://iti.ufscar.mba/mlp)
 - 📫 How to reach me: [personal email](mailto:rudi.modena@gmail.com), [professional email](mailto:rudi.modena@andritz.com), [LinkedIn](https://www.linkedin.com/in/rccmodena/)
 
 **Feel free to contact me.**
