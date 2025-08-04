@@ -1,6 +1,6 @@
 # Hi there, and welcome! 👋
 
-I'm a Data Scientist @ [Andritz](https://www.andritz.com/group-en), and I have a Bachelor's Degree in Geology 🌎.
+I'm a Data Scientist @ [Andritz](https://www.andritz.com/group-en), and I have a Bachelor's Degree in Geology 🌎. Now, learning more about Data Engineering and MLOps.
 
 To get the work done, I use *Python*, *SQL*, *Git/Github/Bitbucket*, *JMP*, *Weka*, and a bit of *C/C++* and Frontend (*HTML*, *CSS* and *Javascript*).
 
